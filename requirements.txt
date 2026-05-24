@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+pubchempy
+streamlit
+rdkit-pypi
+openbabel-wheel
+requests
+scipy
+matplotlib
+wordcloud
