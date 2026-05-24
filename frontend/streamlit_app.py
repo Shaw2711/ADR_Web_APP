@@ -22,7 +22,7 @@ if "selected_effect" not in st.session_state:
 if "view" not in st.session_state:
     st.session_state.view = "main"
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://unsuited-commerce-footsore.ngrok-free.dev/predict"
 
 st.set_page_config(
     page_title="Drug Side Effect Predictor",
