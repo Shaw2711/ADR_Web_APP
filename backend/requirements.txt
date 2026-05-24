@@ -9,3 +9,5 @@ rdkit-pypi
 openbabel-wheel
 requests
 scipy
+matplotlib
+wordcloud
